@@ -1,0 +1,81 @@
+@import url (http://vignette1.wikia.nocookie.net/inciclopedia/images/4/47/Kiwi_Butt.jpg/revision/latest?cb=20090920194613);
+
+body{
+	margin: 0 auto;
+	width: 75%;
+}
+
+header {
+	background-color: green;
+	color: #ff00ff;
+	border: 39px solid #BF486D;
+	padding: 39px;
+	margin: 20px;
+	text-align: center;
+	font-family: Impact;
+	font-size: 30px;
+}
+
+nav {
+	background-color: #F7FF00;
+}
+
+
+nav {
+	margin: 0;
+	text-align: center;
+}
+nav ul li {
+	display: inline-block;
+	padding: 10px 30px;
+}
+
+nav ul a {
+	text-decoration: none;
+	color: #0055FF;
+}
+
+nav ul a:hover {
+	color: #FF0000;
+}
+
+aside .par_color{
+	vertical-align: right;
+	margin-top: 1px;
+	height: 760px;
+	width: 800px;
+	text-align: center;
+	font-size: 20px
+
+}
+
+
+
+section .par_color{
+	width: 70%;
+	padding: 1%;
+	background-color: orange;
+	float: left;
+	
+}
+
+section p { 
+font-family: 'impact'; color: blue;
+font-size: 19px;
+}
+
+
+footer {
+	background: #146915;
+	font-family: impact; color: yellow;
+	clear: both;
+	padding: 3%;
+	width: 100%;
+	font-size: 100px;
+	text-align: center;
+	
+    
+	
+	
+
+}
