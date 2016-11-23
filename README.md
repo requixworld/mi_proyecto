@@ -78,3 +78,12 @@ Se pueden poner citas:
 
 
 > Dile que le pongan champiñón
+
+---
+
+Markdown te permite crear listas de chequeo:
+
+- [ ] Patatas.
+- [X] Limones.
+- [ ] Melones.
+- [X] Pussys.
