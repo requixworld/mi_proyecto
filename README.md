@@ -69,6 +69,12 @@ También te permite <i>usar <b>código<b> HTML </i>.
 Se pueden poner citas:
 
 > Yo quiero una pizza de jamón...
+
+
 > Yo quiero otra igual pero con pimiento...
+
+
 > La mía que lleve doble extra de queso...
+
+
 > Dile que le pongan champiñón
