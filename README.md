@@ -56,9 +56,10 @@ En Markdown también se pueden poner imagenes:
 ![Imagen de Tristana](http://img08.deviantart.net/3f29/i/2016/146/6/d/chibi_malzahar_by_daedreamerz-da3txev.jpg 'Imagen de Malzaha')
 
 En Markdown te permite crear tablas:
+
 | PERSONAJE | POSICIÓN |    PASIVA   |
 |-----------|----------|-------------|
 | TRISTANA  | ADC      | RANGO LARGO |
-|   ANNIE   | MID      | STUN        |
+|  ANNIE    | MID      |   _STUN_    |
 | MALZAHAR  | MID      | ESCUDO      |
 | GAREN     | TOP      | REG. VIDA   |
