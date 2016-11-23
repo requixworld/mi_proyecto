@@ -53,4 +53,4 @@ También es posible crear listas aniadadas:
 Markdown te permite poner {enlaces a una página web](github.com/milq/lmsgi). incluso sólo poniendo la URL: http://google.com.
 
 En Markdown también se pueden poner imagenes:
-![Imagen de Tristana](https://s-media-cache-ak0.pinimg.com/236x/1e/ee/2d/1eee2df5a8ea722b3d39cbba5713ad16.jpg 'Imagen de Malzaha')
+![Imagen de Tristana](http://img08.deviantart.net/3f29/i/2016/146/6/d/chibi_malzahar_by_daedreamerz-da3txev.jpg 'Imagen de Malzaha')
